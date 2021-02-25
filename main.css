@@ -1,0 +1,23 @@
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-style: solid ;
+    border-color: rgb(71, 71, 71);
+    background-color: rgba(155, 155, 155, 0.925); 
+    border-bottom: 6px solid rgb(87, 87, 87);
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(255, 255, 255);
+    font: arial;
+    border-bottom: 6px solid rgb(87, 87, 87);
+}
+p {
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    color: azure;
+}
+body {
+    background: url(img/background.jpg);
+}
+
