@@ -34,5 +34,21 @@ ul {
     margin-left: 90px;
     margin-right: 90px;
 }
-
+table, td, th {
+    border: 1px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+    margin-left: 90px;
+    color: rgb(255, 255, 255);
+}
+td, th {
+  padding: 5px 50px;
+  font-size: 22px;
+}
+th {
+  background-color: rgba(134, 56, 56, 0.699);
+  color: #ffffff;
+}
+a {
+  color: rgba(255, 112, 112, 0.904);
+}
 
